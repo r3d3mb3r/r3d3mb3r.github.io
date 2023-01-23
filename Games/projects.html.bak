@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+  <head>
+    <title>Projects</title>
+    <style>
+    body {
+      background-color: black;
+      color: white;
+    }
+    </style>
+  </head>
+  <body>
+    <h1>r3d3mb3r.github.io/Projects</h1>
+    <p>GODOT IS MY FAVORITE!!!!!!!!!!!!!!!!!!!!</p>
+    <p><a href="../index.html">v-- back to index page</a></p>
+    <nav>
+      <ul>
+        <li><a href="../TEST.html">Quake 3 Movement Engine Test</a></li>
+<<<<<<< HEAD
+        <li><a href="HCD/1/HaloCD(1).html">Proj: Combat Devolved</a></li>
+=======
+        <li><a href="HCD/HaloCD.html">Proj: Combat Devolved(2)</a></li>
+>>>>>>> 81fcc1fb5ceb264f0fe84fff45d2fb56931f9a95
+      </ul>
+    </nav>
+  </body>
+</html>
